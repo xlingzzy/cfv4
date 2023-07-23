@@ -34,10 +34,10 @@ CFKEY=7b47a96d99dae7173a138395ab240b0593ab5
 CFUSER=ling16942973@gmail.com
 
 # Zone name, eg: example.com
-CFZONE_NAME=lingzz.club
+CFZONE_NAME=yddkl.link
 
 # Hostname to update, eg: homeserver.example.com
-CFRECORD_NAME=tw.lingzz.club
+CFRECORD_NAME=tw.yddkl.link
 
 # Record type, A(IPv4)|AAAA(IPv6), default IPv4
 CFRECORD_TYPE=A
